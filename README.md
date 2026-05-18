@@ -12,10 +12,10 @@
         <h3>About Me:</h3>
         <div align="left">
           <h6>
-            💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
-            📚 I’m a final year Actuarial Science undergraduate in University of Malaya<br>
-            📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
-            🏆 My certifications: 
+            💻 Computer Engineering student at the University of Barcelona<br>
+            📚 Learning AI tools, exploring OOP design patterns, and experimenting with game dev<br>
+            🔭 Currently working on College projects<br>
+            📧 Reach me at <a href="mailto:albc987@gmail.com">albc987@gmail.com</a><br>
           </h6>
         </div>
         <div align="left">
@@ -32,6 +32,9 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" alt="Android" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" alt="Godot" />
         </div>
       </div>
     </td>
@@ -39,8 +42,8 @@
       <div align="center">
         <h3>GitHub Stats</h3>
         <br>
-        <img src="https://streak-stats.demolab.com/?user=AlexanderLeoneL&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-      </div>
+        <img src="https://streak-stats.demolab.com/?user=AlexanderLeoneL&theme=dark&hide_border=false" alt="GitHub Streak" width="400" />        <br>
+        <img width="400" height="150" alt="Enregistrament 2026-05-18 013948" src="https://github.com/user-attachments/assets/396ab827-6115-4953-be10-d123f6cf7b5b" />      </div>
     </td>
   </tr>
 </table>
